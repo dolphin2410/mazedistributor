@@ -1,0 +1,8 @@
+name: Mazegen
+version: 1.0.0
+api-version: 1.19
+author: dolphin2410
+main: me.dolphin2410.mazegen.MazeGenPlugin
+libraries:
+  - io.github.monun:tap-core:4.9.8
+  - io.github.monun:kommand-core:3.1.7
